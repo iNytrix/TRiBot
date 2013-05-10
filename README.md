@@ -1,5 +1,4 @@
 Encoded's Scripts
 =================
 
-Scripts made by Encoded for TRiBot
-www.TRiBot.org
+Scripts made by Encoded for www.TRiBot.org
